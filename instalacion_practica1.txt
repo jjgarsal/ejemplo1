@@ -1,0 +1,60 @@
+Práctica de Git Hub desde el tutorial
+
+Instalación de la aplicacion para Windows video, 20 min
+
+https://www.youtube.com/watch?v=fsAlY8Pu1Qs
+
+
+
+#################
+Práctica Control de versiones Git en local
+Página 13
+
+
+#################
+Práctica Control de versiones Git en la nube
+Pág. 15
+
+Github for Desktop - Como subir tu proyecto a Github
+#################
+Práctica compartir proyecto (varios usuarios)
+
+
+
+
+
+
+
+##################
+Subir proyecto a Android Studio
+
+https://www.youtube.com/watch?v=jaMGWZ5BeEY
+
+
+Como importar un repositorio github a Android Studio
+https://www.youtube.com/watch?v=Q4E0KVZInus
+
+
+
+
+
+########################
+Control de Versiones
+
+	Proyectos de programación
+	Para cualquier tipo de proyecto
+
+GIT
+	Servidores Web (Proveedores)
+	- Github
+	- Bitbucker
+	
+	Local
+	- PC
+	
+Subversion
+
+
+
+
+
